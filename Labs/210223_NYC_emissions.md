@@ -6,7 +6,7 @@ Report on NYC's major sources of emissions and how it is faring in its climate g
 ![Big Buildings Hurt the Climate. New York City Hopes to Change That (William Neuman, 2019)](https://www.nytimes.com/2019/04/17/nyregion/nyc-energy-laws.html) </br>
 Efforts to minimize the contribution of buildings to NYC's emissions
 
-## For the curious :smiley:
+## For the curious :relaxed:
 
 ![NYC Energy and Water Performance Map](https://energy.cusp.nyu.edu/#/) </br>
 Check out the energy and water consumption of your neighborhood
