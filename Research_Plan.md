@@ -11,6 +11,6 @@
 - [ ] Correlate SST with the NAO Index
 
 ### Visualize Data
-- [ ] Contour plot of mean SST
+- [X] Contour plot of mean SST
 - [ ] Contour plot of SST correlated with the NAO index
 
