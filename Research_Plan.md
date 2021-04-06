@@ -15,7 +15,7 @@
 - [ ] Correlate SST with the NAO Index
 
 ### Visualize Data
-**For all your contour plots, make sure add a colorbar and label your x-axis, y-axis and colorbar**
+**For all your contour plots, make sure to add a colorbar and label your x-axis, y-axis and colorbar**
 - [X] Contour plot of mean SST
 - [ ] Animated contour plot of SST during strong and weak NAO events
 - [ ] Contour plot of SST correlated with the NAO index
