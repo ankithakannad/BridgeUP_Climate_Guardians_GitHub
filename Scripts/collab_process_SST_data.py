@@ -5,6 +5,5 @@ if __name__ == '__main__':
   
   #Import data
   
-  #Access SST data
+  #Save SST data
   
- 
