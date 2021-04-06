@@ -10,8 +10,6 @@
 ### Data Analysis
 - [X] Calculate mean of SST
 - [ ] Identify strong and weak NAO events
-- [ ] Calculate standard deviation of SST
-- [ ] Examine long-term trends in SST using rolling mean
 - [ ] Correlate SST with the NAO Index
 
 ### Visualize Data
@@ -19,6 +17,10 @@
 - [X] Contour plot of mean SST
 - [ ] Animated contour plot of SST during strong and weak NAO events
 - [ ] Contour plot of SST correlated with the NAO index
+
+### Extra Time
+- [ ] Calculate standard deviation of SST
+- [ ] Examine long-term trends in SST using rolling mean
 
 
 
