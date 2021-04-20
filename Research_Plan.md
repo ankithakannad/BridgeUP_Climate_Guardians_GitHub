@@ -1,8 +1,8 @@
 # Research Plan
 
 ### Data Processing
-- [ ] Mask sea ice concentration values
-- [ ] Filter data to only look at the Atlantic Ocean
+- [X] Mask sea ice concentration values
+- [X] Filter data to only look at the Atlantic Ocean
 - [ ] Average over winter (Dec - March)
 - [ ] Calculate SST anomalies
 - [ ] Save processed SST as netCDF file
